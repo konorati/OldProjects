@@ -1,0 +1,50 @@
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100000
+Transaction Items: 
+	Item: Converse All-Stars
+	Quantity: 2
+	Price Per Item: $39
+Discount %0
+Total: $78
+
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100000
+Transaction Items: 
+	Item: Nike Free Flyknit
+	Quantity: 2
+	Price Per Item: $109.99
+Discount 22.33%
+Total: $170.86
+
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100001
+Transaction Items: 
+	Item: Diadora Slick Bike Shorts
+	Quantity: 6
+	Price Per Item: $30.99
+Discount 15.00%
+Total: $158.05
+
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100000
+Transaction Items: 
+	Item: Nike Free Flyknit
+	Quantity: 2
+	Price Per Item: $109.99
+Discount 33.00%
+Total: $147.39
+
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100001
+Transaction Items: 
+	Item: Diadora Slick Bike Shorts
+	Quantity: 6
+	Price Per Item: $30.99
+Discount 12.00%
+Total: $163.63
+

@@ -1,0 +1,19 @@
+*** Transaction Receipt ***
+Transaction type: Sale
+Transaction ID: 100000
+Transaction Items: 
+	Item: Diadora Slick Bike Shorts
+	Quantity: 3
+	Price Per Item: $30.99
+Discount 0.00%
+Total: $92.97
+
+*** Transaction Receipt ***
+Transaction type: Return
+Transaction ID: 100000
+Transaction Items: 
+	Item: Nike Free Flyknit
+	Quantity: 4
+	Price Per Item: $109.99
+Total: $<439.96>
+

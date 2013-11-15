@@ -1,0 +1,28 @@
+Converse All-Stars
+Shoes
+Black tennis shoes size 10
+6
+38.99
+111111
+
+Puma Amp Cell-Fusion
+Shoes
+Red/White running shoes size 9
+12
+72.99
+121212
+
+Nike Free Flyknit
+Shoes
+Green/Blue running shoes size 11
+4
+109.99
+323232
+
+Diadora Slick Bike Shorts
+Clothing
+Black bike short size M
+7
+30.99
+444444
+

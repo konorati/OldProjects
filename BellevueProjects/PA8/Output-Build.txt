@@ -1,0 +1,19 @@
+﻿1>------ Rebuild All started: Project: PA8, Configuration: Debug Win32 ------
+1>Build started 4/25/2013 10:04:15 AM.
+1>_PrepareForClean:
+1>  Deleting file "Debug\PA8.lastbuildstate".
+1>InitializeBuildStatus:
+1>  Touching "Debug\PA8.unsuccessfulbuild".
+1>ClCompile:
+1>  Math_Education.c
+1>c:\users\kristin\desktop\classes\visual studio 2010\projects\pa8\pa8\math_education.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+1>  main.c
+1>  Generating Code...
+1>MSVCRTD.lib(crtexew.obj) : error LNK2019: unresolved external symbol _WinMain@16 referenced in function ___tmainCRTStartup
+1>C:\Users\Kristin\Desktop\Classes\visual studio 2010\Projects\PA8\Debug\PA8.exe : fatal error LNK1120: 1 unresolved externals
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:02.71
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========

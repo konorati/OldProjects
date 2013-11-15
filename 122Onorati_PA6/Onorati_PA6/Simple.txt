@@ -1,0 +1,5 @@
+5 rem do something
+10 input x
+15 let x = x - 5
+20 if x = 1 goto 40
+40 end

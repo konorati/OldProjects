@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Onorati_PA6", "Onorati_PA6\Onorati_PA6.vcxproj", "{6B390C4B-C9AC-4B3C-B3F1-7C5B78F4C5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B390C4B-C9AC-4B3C-B3F1-7C5B78F4C5BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B390C4B-C9AC-4B3C-B3F1-7C5B78F4C5BD}.Debug|Win32.Build.0 = Debug|Win32
+		{6B390C4B-C9AC-4B3C-B3F1-7C5B78F4C5BD}.Release|Win32.ActiveCfg = Release|Win32
+		{6B390C4B-C9AC-4B3C-B3F1-7C5B78F4C5BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
